@@ -69,7 +69,8 @@ Following are the tech stacks I have already explored:
 
 ## Projects
 
-> Dental Care Management Software
+> ### Dental Care Management Software <br>
+> A software to manage visits and appointment of patient of dental clinic along with recording diagnosis, treatment plan (and treatment done, if multiple visits required).
 
 > VisualTkGUI
 
